@@ -27,5 +27,5 @@
         return $c;
     }
     $sum = returning_value(5, 3);
-    echo "Sum :$sum\n";
+    echo "Sum : $sum\n";
 ?>
